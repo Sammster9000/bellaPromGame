@@ -4,6 +4,8 @@ import pygame
 running = True
 SCREEN_RESOLUTION = (700, 500)
 
+#python is a little silly
+
 # init
 pygame.init()
 screen = pygame.display.set_mode(SCREEN_RESOLUTION);
